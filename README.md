@@ -43,7 +43,7 @@ This project offers a practical introduction to machine learning workflows, cove
 
 Run the project by executing the following command in the terminal:
 
-#Türkçe anlatımı
+
 # Iris Veri Seti ile Lojistik Regresyon Sınıflandırması
 
 Bu proje, ünlü Iris çiçek veri seti üzerinde makine öğrenmesi tekniklerini kullanarak çiçek türlerini sınıflandırmayı amaçlamaktadır. Proje, Python programlama dili ve popüler kütüphaneler olan scikit-learn, pandas, seaborn ve matplotlib kullanılarak geliştirilmiştir.
