@@ -45,6 +45,7 @@ Run the project by executing the following command in the terminal:
 
 ```bash
 python iris_classification.py
+```
 
 
 
