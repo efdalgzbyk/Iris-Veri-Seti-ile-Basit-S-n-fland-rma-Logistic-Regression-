@@ -43,6 +43,10 @@ This project offers a practical introduction to machine learning workflows, cove
 
 Run the project by executing the following command in the terminal:
 
+```bash
+python iris_classification.py
+
+
 
 # Iris Veri Seti ile Lojistik Regresyon Sınıflandırması
 
